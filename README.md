@@ -40,5 +40,5 @@
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moemen-N7&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://moemen.ga/social)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayhamalali&langs_count=8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayhamalali&langs_count=8&layout=compact&theme=merko)](https://moemen.ga/social)
 
