@@ -33,12 +33,12 @@
 
 <h2> My GitHub Stats </h2>
 
-![Metrics](https://metrics.lecoq.io/AyhamAl-Ali?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/Moemen-N7?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AyhamAl-Ali&theme=merko)](https://www.opg4mers.com)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Moemen-N7&theme=merko)](https://moemen.ga/social)
  
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyhamAl-Ali&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://www.opg4mers.com)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moemen-N7&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://moemen.ga/social)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayhamalali&langs_count=8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
