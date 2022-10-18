@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Multiple small projects**
 
-- 🌱 I’m also learning more about **GoLang, Python and Unity**
+- 🌱 I’m also learning more about **Malware Reverse Engineering , Python , Network Security and Web Security**
 
 <h2> Skills </h2>
 <a href= https://github.com/AyhamAl-Ali?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
